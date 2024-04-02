@@ -1,4 +1,4 @@
-# Daniel Hall - Digital Solutions Architect
+#  Digital Solutions Architect 
 
 Welcome to my GitHub! I'm Daniel, a devoted Dad, Husband, Developer, Security Analyst, and Programmer. My journey weaves through the intricate paths of Cybersecurity, Full Stack Development, and Digital Innovation, always guided by a relentless pursuit of excellence and a commitment to securing and enhancing the digital world.
 
